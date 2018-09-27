@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestMatch</string>
+
+    <string name="category_nature">nature</string>
+    <string name="category_dogs">dogs</string>
+    <string name="category_cars">cars</string>
+    <string name="category">category</string>
+
+    <string name="level">level</string>
+    <string name="level_easy">levelEasy</string>
+    <string name="level_medium">levelMedium</string>
+    <string name="level_hard">levelHard</string>
+
+    <string name="score">score</string>
+    <string name="highscore">highscore</string>
+    <string name="highscore_easy">highscore_easy</string>
+    <string name="highscore_hard">highscore_hard</string>
+    <string name="highscore_medium">highscore_medium</string>
+
+    <string name="areYouSure">Are you sure you want to return to Home?</string>
+    <string name="YesGoHome">Yes</string>
+    <string name="NoCancel">Cancel</string>
+    <string name="title">Alert!</string>
+
+    <string name="areYouSureReplay">Are you sure you want to return replay the game?</string>
+    <string name="yesReplay">Yes, replay!</string>
+</resources>
